@@ -1,2 +1,2 @@
-# ModerJavaScript
+# modern-js
  Modern JavaScript Course
