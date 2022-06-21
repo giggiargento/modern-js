@@ -1,3 +1,2 @@
 # modern-js
- Modern JavaScript Course
- Language: Spanish
+ Modern JavaScript Course in Spanish
