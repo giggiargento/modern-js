@@ -1,0 +1,18 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true
+        
+    },
+    "rules": {
+        "eqeqeq": "error"
+    },
+    "parserOptions": {
+    "ecmaVersion": 2018, // use this.
+    "ecmaFeatures": {
+        "jsx": true // just use this on ecmaFeatures, no need "experimentalObjectRestSpread" anymore.
+        }
+    }
+
+}
